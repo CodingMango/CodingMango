@@ -85,9 +85,9 @@
 
 ### 🐍 Snake Game – Watch My Contributions Slither
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CodingMango/CodingMango/output/github-contribution-grid-snake.svg" alt="snake game animation">
-</p>
+<div align="center">
+  ![snake gif](https://github.com/CodingMango/CodingMango/blob/output/github-snake-dark.svg)
+</div>
 
 ---
 
@@ -96,13 +96,3 @@
 </p>
 
 <p align="center"><i>"Code the hardware. Build the future."</i></p>
-
----
-<!-- GitHub Snake Action setup reference -->
-<!-- 
-To enable the snake game:
-1. Use GitHub Actions.
-2. Follow this repo: https://github.com/Platane/snk
-3. Generate the SVG and push it to the output branch.
-4. Replace "CodingMango" with your actual GitHub username in the image URL.
--->
