@@ -86,7 +86,7 @@
 ### 🐍 Snake Game – Watch My Contributions Slither
 
 <div align="center">
-  ![snake gif](https://github.com/CodingMango/CodingMango/blob/output/github-snake-dark.svg)
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/CodingMango/CodingMango/output/github-snake-dark.svg" />
 </div>
 
 ---
